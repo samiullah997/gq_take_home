@@ -64,6 +64,3 @@ Prerequesites:
 - Any excessive styling beyond making the app usable.
 - Sophisticated error handling in the frontend app is not necessary.
 
-## Testing
-
-There are currently two areas tested - the controllers and basic system tests. It is expected that the test suite will be extended to support your new functionality. 
